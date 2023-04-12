@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+FN:Ann Brumbaugh
+N:Brumbaugh;Ann
+ORG:The Law Office of Ann S. Brumbaugh, LLC
+ADR;WORK:;;309 Sycamore Street;Decatur;GA;30330;
+EMAIL;PREF;INTERNET:ab@annbrumbaughlaw.com
+TEL;PREF;WORK;VOICE:404-458-4088
+URL;WORK:https://www.annbrumbaughlaw.com/
+END:VCARD
